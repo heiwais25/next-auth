@@ -22,6 +22,7 @@ import Spotify from './spotify'
 import Twitch from './twitch'
 import Twitter from './twitter'
 import Yandex from './yandex'
+import Naver from "./naver"
 
 export default {
   Atlassian,
@@ -47,5 +48,6 @@ export default {
   Spotify,
   Twitter,
   Twitch,
-  Yandex
+  Yandex,
+  Naver
 }
